@@ -1,3 +1,4 @@
 /methods
-
 *.csv
+.venv
+.env
